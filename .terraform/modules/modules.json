@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cloud_function","Source":"./modules/function","Dir":"modules/function"},{"Key":"storage","Source":"./modules/storage","Dir":"modules/storage"}]}
