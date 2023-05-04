@@ -7,3 +7,8 @@ then you can :
 - terraform init
 - terraform plan (optional)
 - terraform apply
+
+I am using the cloud function with python :
+       It will compress the python code and send it to the bucket cloud_function
+
+I've also initialized the Google big query dataset, the data are provided from the google sheet.
