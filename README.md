@@ -1,5 +1,5 @@
 ## Readme
-frist you have to enable API CLOUD BUILD & CLOUD RESOURCE MANAGER MANUALLY on
+First you have to enable API CLOUD BUILD & CLOUD RESOURCE MANAGER MANUALLY on
 https://console.cloud.google.com/apis/api/cloudbuild.googleapis.com
 https://console.cloud.google.com/apis/api/cloudresourcemanager.googleapis.com
 
